@@ -21,7 +21,7 @@ Provide power to the board [as described in the Microchip documentation](https:/
 # Yocto
 
 Build with:
-`docker build --no-cache -t microchip-yocto`
+`docker build --no-cache -t microchip-yocto .`
 
 Run with:
 `docker run -it microchip-yocto`
